@@ -1,9 +1,9 @@
 import ListHeader from './components/ListHeader'
 
-function App() {
+const App = () => {
   return (
     <div className="app">
-      <ListHeader/>
+      <ListHeader listName={'🏝️ Holiday tick list'}/>
     </div>
   );
 }

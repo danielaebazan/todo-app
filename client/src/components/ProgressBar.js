@@ -1,4 +1,4 @@
-function ProgressBar() {
+const ProgressBar = () => {
   return (
     <div>
     </div>

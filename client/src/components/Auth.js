@@ -1,4 +1,4 @@
-function Auth() {
+const Auth = () => {
   return (
     <div>
     </div>

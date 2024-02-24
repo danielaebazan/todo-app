@@ -1,4 +1,4 @@
-function TickIcon() {
+const TickIcon = () => {
   return (
     <div>
     </div>
